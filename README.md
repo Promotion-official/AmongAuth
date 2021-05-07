@@ -10,7 +10,7 @@ IntelliJ
 
 ### 커밋
 1. 커밋은 최소단위로
-2. 커밋메세지 알아보게
+2. 커밋메세지 알아보게  
   ex : [https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/](https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/)
 
 ### 작업단위는 git flow 모델을 베이스로 진행한다.
